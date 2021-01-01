@@ -1,0 +1,49 @@
+.container {
+    width: 350px;
+    margin: auto;
+    min-height: 20vh;
+    padding: 10px;
+    transform: translateY(-10%);
+
+    .wrapper {
+        width: inherit;
+        height: inherit;
+    }
+} 
+
+.fa {
+    font-size: 14px;
+    cursor: pointer;
+}
+.p {
+    padding: 10px;
+}
+
+.p-y{
+    padding: 10px 0;
+}
+
+.p-x {
+    padding: 0 10px;
+}
+
+.m {
+    margin: 1rem;
+}
+
+.m-y {
+    margin: 1rem 0;
+}
+
+.m-x {
+    margin: 0  1rem;
+}
+
+.m-l {
+    margin: 0 0 0 .7rem;
+}
+
+
+
+
+
